@@ -5,6 +5,8 @@ import PracticeTwo from "./components/moduleone";
 import Supplier from "./components/prop";
 import StudentDetails from "./components/stat";
 import Counter from "./components/counter";
+import LifeA from "./components/lifecycle";
+import UpdatingA from "./components/updatinglifeA";
 
 function App() {
   return (
@@ -12,9 +14,14 @@ function App() {
       <PracticeOne />
       <PracticeTwo />
       <Supplier />
+      <hr/>
       <StudentDetails />
       <hr/>
       <Counter />
+      <hr/>
+      <LifeA />
+      <hr/>
+      <UpdatingA />
     </div>
   );
 }
