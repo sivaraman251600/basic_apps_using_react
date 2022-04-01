@@ -1,6 +1,6 @@
 import React,{Component} from "react";
  
-class Company extends React.Component{
+class Company extends Component{
    
     render(){
         return(

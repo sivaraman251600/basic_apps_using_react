@@ -1,5 +1,5 @@
-import React, {component} from 'react';
-class StudentDetails extends React.Component{
+import React, {Component} from 'react';
+class StudentDetails extends Component{
 
     constructor(){
         super()
