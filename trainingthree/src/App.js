@@ -8,6 +8,8 @@ import Counter from "./components/counter";
 import LifeA from "./components/lifecycle";
 import UpdatingA from "./components/updatinglifeA";
 import Form from "./components/formelements";
+import Names from "./components/reactAdvantage";
+import TerneryOperator from "./components/reactAdvantagesOne";
 
 function App() {
   return (
@@ -25,6 +27,10 @@ function App() {
       <UpdatingA />
       <hr />
       <Form />
+      <hr/>
+      <Names />
+      <hr/>
+      <TerneryOperator />
     </div>
   );
 }

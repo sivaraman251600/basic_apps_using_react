@@ -1,0 +1,8 @@
+#status-color{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    right: 50px;
+    margin-top: -70px;
+    border: 1px solid black;
+}
