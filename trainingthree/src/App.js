@@ -7,6 +7,7 @@ import StudentDetails from "./components/stat";
 import Counter from "./components/counter";
 import LifeA from "./components/lifecycle";
 import UpdatingA from "./components/updatinglifeA";
+import Form from "./components/formelements";
 
 function App() {
   return (
@@ -22,6 +23,8 @@ function App() {
       <LifeA />
       <hr/>
       <UpdatingA />
+      <hr />
+      <Form />
     </div>
   );
 }
