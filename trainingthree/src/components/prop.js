@@ -16,7 +16,7 @@ class Supplier extends React.Component{
     render(){
         return(
             <div>
-                <Company employeeName = "Praveen" />
+                <Company employeeName = "Praveen" id="30"/>
             </div>
         );
     }
